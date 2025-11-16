@@ -26,7 +26,7 @@ Here are the technologies, languages, and tools I work with:
 | :--- | :--- |
 | **Languages** | `JavaScript` `C` `Python` `C++` |
 | **Database** | `PostgreSQL` `MongoDB` `MySQL` `Redis` |
-| **Tools & DevOps** | `Git` `Docker` `Kubernetes`L `AWS` `Vercel` |
+| **Tools & DevOps** | `Git` `Docker` `Kubernetes` `AWS` `Vercel` |
 
 ---
 
