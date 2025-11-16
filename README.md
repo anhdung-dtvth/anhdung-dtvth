@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">
+  Hi there, I'm Dung! 👋
+</h1>
 
-<!--
-**anhdung-dtvth/anhdung-dtvth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  A passionate Electrical Engineering and Informatics student from Hanoi University of Science, VNU.
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👨‍💻 About Me
+
+* 🌱 I’m currently learning **Data Structures and Algorithms**.
+* 💬 Ask me about **Python and Data Structures and Algorithms**.
+* 📫 My main email: **anhdung.dtvth@gmail.com**
+* ⚡ Fun fact: **I am very passionate about coding, data structures and solving algorithms**
+
+---
+
+## 🛠️ My Tech Stack
+
+Here are the technologies, languages, and tools I work with:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` `C` `Python` `C++` |
+| **Database** | `PostgreSQL` `MongoDB` `MySQL` `Redis` |
+| **Tools & DevOps** | `Git` `Docker` `Kubernetes`L `AWS` `Vercel` |
+
+---
+
+
+## 📫 Let's Connect!
+
+Get in touch with me via these platforms.
+
+<p align="left">
+  <a href="https://www.facebook.com/anhdung.dtvth#" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:anhdung.dtvth@gmail.com#" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://voz.vn/u/fan-truyen-tranh.2081524/#" target="_blank">
+    <img src="https://img.shields.io/badge/Voz-FF9900?style=for-the-badge&logoColor=white" alt="Voz"/>
+  </a>
+</p>
