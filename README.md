@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate Electrical Engineering and Informatics student from Hanoi University of Science, VNU.
+  A passionate Electronic Engineering and Informatics student from Hanoi University of Science, VNU.
 </h3>
 
 ---
@@ -11,10 +11,7 @@
 
 ## 👨‍💻 About Me
 
-* 🌱 I’m currently learning **Data Structures and Algorithms**.
-* 💬 Ask me about **Python and Data Structures and Algorithms**.
-* 📫 My main email: **anhdung.dtvth@gmail.com**
-* ⚡ Fun fact: **I am very passionate about coding, data structures and solving algorithms**
+* 📫 Email: **anhdung.dtvth@gmail.com**
 
 ---
 
@@ -24,9 +21,7 @@ Here are the technologies, languages, and tools I work with:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `JavaScript` `C` `Python` `C++` |
-| **Database** | `PostgreSQL` `MongoDB` `MySQL` `Redis` |
-| **Tools & DevOps** | `Git` `Docker` `Kubernetes` `AWS` `Vercel` |
+| **Languages** |  `C` `Python` `C++` |
 
 ---
 
